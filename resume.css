@@ -1,0 +1,58 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    font-style:italic;
+}
+.main{
+    display:flex;
+}
+
+.leftdiv{
+    width:30%;
+    border:4px solid #ddd;
+    box-shadow:8px 8px 8px #ddd;
+    text-align:center;
+    border-radius:10px;
+    
+}
+img{
+    width:70%;
+    border-radius:50px;
+    padding:3px;
+}
+.rightdiv{
+    width:60%;
+    border:4px solid #ddd;
+    box-shadow:8px 8px 8px #ddd;
+    border-radius:10px;
+    padding:10px;
+    
+}
+h2{
+    color:rgb(206, 55, 17);
+    font-style:oblique;
+    font-size:40px;
+   // text-shadow:2px 2px orangered;
+}
+p{
+    font-size:25px;
+}
+table{
+    border:3px solid rgb(46, 40, 40);
+    padding:5px;
+    font-size:23px;
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+}
+td,th{
+    padding:5px;
+}
+.skills{
+    font-size:20px;
+    margin:10px;
+
+}
+address{
+    margin-left:30px;
+}
+
